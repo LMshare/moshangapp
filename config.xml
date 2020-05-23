@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget id="A6008543429500" security="false" version="0.0.1">
+<widget id="A6045649706742" security="false" version="0.0.1">
 
-	<name>蝶影VIP</name>
+	<name>影视云墨殇</name>
 	<description>Example For APICloud.</description>
 	<author email="developer@apicloud.com" href="http://www.apicloud.com">Developer</author>
 	<content src="index.html"/>
